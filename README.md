@@ -17,7 +17,7 @@
 - as nuc_runner.sh checks each domain, output is written to results/results.txt
 - after nuc_runner.sh checks each domain, that domain is deleted from the top of current_list.txt
 
-##Use:
+## How to use:
 - place target domains in target.txt
 - run amass_runner.sh
 - run nuc_runner.sh
