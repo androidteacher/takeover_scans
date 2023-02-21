@@ -7,6 +7,7 @@
 - subdomains found are written out to the found/ directory in a series of named files.
 ## myamass
 - used by amass_runner to run a simple active enum
+- I should probably put this in amass_runner.sh
 ## nuc_runner.sh
 - runs nuclei
 - creates a single list from all files in the found/ folder
