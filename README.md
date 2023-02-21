@@ -3,8 +3,8 @@
 ## amass_runner.sh
 - requires amass installed and in your path
 - back up previous data to found/old_amass_results/
-- looks for domains in targets.txt and enumerates subdomains
-- subdomains are written out to the found/ directory
+- read domains from in targets.txt and enumerates subdomains for each line
+- subdomains found are written out to the found/ directory in a series of named files.
 ## myamass
 - used by amass_runner to run a simple active enum
 ## nuc_runner.sh
