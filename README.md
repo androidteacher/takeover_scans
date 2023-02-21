@@ -21,3 +21,4 @@
 - place target domains in target.txt
 - run amass_runner.sh
 - run nuc_runner.sh
+- manually check any potential sub-domain takeover conditions
