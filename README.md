@@ -2,7 +2,7 @@
 
 ## amass_runner.sh
 - requires amass installed and in your path
-- back up previous data to found/old_amass_results/
+- backs up previous data to found/old_amass_results/
 - read domains from in targets.txt and enumerates subdomains for each line
 - subdomains found are written out to the found/ directory in a series of named files.
 ## myamass
